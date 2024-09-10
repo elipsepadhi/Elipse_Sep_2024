@@ -9,19 +9,19 @@
  
 ## Technologies Used
 
--Java: Main programming language.
--Selenium WebDriver: Used for automating web-based billing application tests.
--Maven: For build automation and dependency management.
--JUnit/TestNG: For writing test cases and executing tests
--Apache poi-For retreiving test data from external files.
--Extent Report-For generating informative report.
+- Java: Main programming language.
+- Selenium WebDriver: Used for automating web-based billing application tests.
+- Maven: For build automation and dependency management.
+- JUnit/TestNG: For writing test cases and executing tests
+- Apache poi-For retreiving test data from external files.
+- Extent Report-For generating informative report.
 
 ## Clone the Repository:
--Git clone -https://github.com/elipsepadhi/elisept_2024.git
+- Git clone -https://github.com/elipsepadhi/elisept_2024.git
 
 ## Execution: 
--from command line : mvn test
--for run individual test cases using command line:mvn -Dtest=ClassName
+- from command line : mvn test
+- for run individual test cases using command line:mvn -Dtest=ClassName
 
 ## Packages
 - Base:
